@@ -33,7 +33,7 @@
     "stylelint": "^16.26.0",
     "stylelint-order": "7.0.0",
     "stylelint-scss": "^6.12.1",
-    "svgo": "^4.0.0"
+    "svgo": "^4.0.1"
   },
   "scripts": {
     "build": "./node_modules/.bin/grunt build",
