@@ -17,7 +17,7 @@
     "cookieconsent": "^3.1.1",
     "fantasticon": "^3.0.0",
     "glob": "^13.0.0",
-    "grunt": "^1.6.1",
+    "grunt": "^1.6.3",
     "grunt-contrib-copy": "^1.0.0",
     "grunt-contrib-cssmin": "^5.0.0",
     "grunt-contrib-uglify": "^5.2.2",
